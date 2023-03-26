@@ -1,1 +1,1 @@
-<img src="./Prize.png" width = 100% alt="Poster" align=center />
+<img src="./Prize.jpg" width = 100% alt="Poster" align=center />
