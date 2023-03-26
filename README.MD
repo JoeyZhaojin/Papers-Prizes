@@ -1,1 +1,1 @@
-<img src="./Poster.png" width = "300" height = "200" alt="Poster" align=center />
+<img src="./Poster.png" width = 100% alt="Poster" align=center />
