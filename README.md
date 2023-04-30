@@ -4,4 +4,4 @@ Prize
 <img src="./prize_photo.jfif" width = 100% alt="PrizePhoto" align=center />
 
 Poster of project
-<img src="./Poster.png" width = 100% alt="Poster" align=center />
+<img src="./POSTER.png" width = 100% alt="Poster" align=center />
